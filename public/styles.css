@@ -1,0 +1,14 @@
+*{
+    margin: auto;
+    width: 640px; 
+    padding:20px;
+    font-family: 'Lexend Deca', sans-serif; 
+    color: #2E475D;    
+    text-align: center;
+    height: 100
+    
+}
+button{
+    color: black;
+    background-color: red;
+}
